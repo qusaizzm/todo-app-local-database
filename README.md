@@ -1,5 +1,5 @@
 # database_sqf
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](screenshot/todo app.gif)
 
 Your browser does not support the video tag.
 </video> 
