@@ -1,9 +1,9 @@
 # database_sqf
 
 A new Flutter project.
-
+![](screenshot/todo app.gif)
 # ScreenShot Images
-<img src="screenshot/PicsArt_12-13-07.44.30.jpg width="400" height="400""  >
+<img src="screenshot/PicsArt_12-13-07.44.30.jpg width="400" height="400"  >
 ## Getting Started
 
 This project is a starting point for a Flutter application.
