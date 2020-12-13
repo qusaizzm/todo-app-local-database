@@ -2,6 +2,7 @@
 
 A new Flutter project.
 ![](screenshot/todo app.gif)
+<img src="screenshot/todo app.gif" width="400" height="400"  >
 # ScreenShot Images
 <img src="screenshot/PicsArt_12-13-07.44.30.jpg" width="400" height="400"  >
 ## Getting Started
