@@ -1,11 +1,11 @@
 # database_sqf
-![Alt Text](screenshot/todo app.gif)
+![Alt Text](todo app.mp4)
 
 Your browser does not support the video tag.
-</video> 
+
 A new Flutter project.
 
-<img src="screenshot/todo app.gif" width="400" height="400"  >
+<img src="todo app.mp4" width="400" height="400"  >
 # ScreenShot Images
 <img src="screenshot/PicsArt_12-13-07.44.30.jpg" width="400" height="400"  >
 ## Getting Started
