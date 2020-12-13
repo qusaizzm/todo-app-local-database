@@ -3,7 +3,7 @@
 A new Flutter project.
 
 # ScreenShot Images
-<img src="screenshop/PicsArt_12-01-10.12.52.jpg " width="200" height="400" >
+<img src="screenshot/PicsArt_12-01-10.12.52.jpg "  >
 ## Getting Started
 
 This project is a starting point for a Flutter application.
