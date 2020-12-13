@@ -5,8 +5,9 @@ Your browser does not support the video tag.
  <video width="320" height="240" autoplay>
   <source src="todo app.mp4" type="video/mp4">
 
-Your browser does not support the video tag.
+Your browser does not support the video tag
 </video> 
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/dtrB02TLF7Y)
 [![SC2 Video](doc/SC2_youtube.PNG)](https://youtu.be/dtrB02TLF7Y "SC2 Mini game - Click to Watch!")
 A new Flutter project.
 
