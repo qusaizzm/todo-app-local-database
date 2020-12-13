@@ -2,7 +2,11 @@
 ![Alt Text](todo app.mp4)
 
 Your browser does not support the video tag.
+ <video width="320" height="240" autoplay>
+  <source src="todo app.mp4" type="video/mp4">
 
+Your browser does not support the video tag.
+</video> 
 A new Flutter project.
 
 <img src="todo app.mp4" width="400" height="400"  >
