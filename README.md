@@ -7,6 +7,7 @@ Your browser does not support the video tag.
 
 Your browser does not support the video tag.
 </video> 
+[![SC2 Video](doc/SC2_youtube.PNG)](https://youtu.be/dtrB02TLF7Y "SC2 Mini game - Click to Watch!")
 A new Flutter project.
 
 <img src="todo app.mp4" width="400" height="400"  >
